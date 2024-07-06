@@ -1,0 +1,14 @@
+.Temperature {
+  display: flex;
+}
+
+.weatherAppTemperature {
+  font-size: 88px;
+  line-height: 88px;
+  font-weight: bold;
+}
+
+.weatherAppUnit {
+  font-size: 28px;
+  margin-top: 6px;
+}

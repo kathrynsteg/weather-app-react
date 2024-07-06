@@ -1,5 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
+import "./styles.css";
+import "./City.css";
+import "./Forecast.css";
+import "./Search.css";
+import "./Temperature.css";
 
 function App() {
   return (
