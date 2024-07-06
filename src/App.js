@@ -19,7 +19,11 @@ function App() {
         <Forecast description="partly cloudy" humidity={45} windSpeed={3} />
         <Temperature temperature={65} />
       </div>
-      <p>Github Repository</p>
+      <br />
+
+      <a href="https://github.com/kathrynsteg/weather-app-react">
+        Github Repository
+      </a>
     </div>
   );
 }
