@@ -1,9 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
 import "./styles.css";
+import City from "./City";
 import "./City.css";
+import Forecast from "./Forecast";
 import "./Forecast.css";
+import Search from "./Search";
 import "./Search.css";
+import Temperature from "./Temperature";
 import "./Temperature.css";
 
 function App() {
