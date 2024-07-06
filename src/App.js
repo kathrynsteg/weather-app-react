@@ -20,9 +20,8 @@ function App() {
         <Temperature temperature={65} />
       </div>
       <br />
-
       <a href="https://github.com/kathrynsteg/weather-app-react">
-        Github Repository
+        GitHub Repository
       </a>
     </div>
   );
